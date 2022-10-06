@@ -1,0 +1,15 @@
+{
+  "name": "madookan",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntaxmadoo",
+    "thememadoo"
+  ],
+  "repository": "https://github.com/mooham7/am.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
